@@ -1,0 +1,12 @@
+# ignore everything...
+*
+
+# except my preferences
+!User/
+!User/Preferences.sublime-settings
+!User/Package Control.sublime-settings
+!User/Default (Linux).sublime-keymap
+
+# and also these
+!.gitignore
+!README.md
