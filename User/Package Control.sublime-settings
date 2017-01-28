@@ -7,19 +7,23 @@
 	[
 		"Boxy Theme",
 		"BracketHighlighter",
+		"ColorPick",
 		"ColorPicker",
 		"Docker Based Build Systems",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
 		"ESLint",
+		"FuzzyFilePath",
 		"Git",
 		"GitGutter",
 		"HTML5",
+		"JavaScript Completions",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"Theme - Cobalt2",
 		"Trimmer"
 	]
 }
